@@ -49,7 +49,7 @@ _For more examples, please refer to the Selenium [Documentation](https://www.npm
 
 Used for demonstration
 
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://www.mit.edu/~amini/LICENSE.md)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
 Distributed under the MIT License. See `LICENSE` for more information.
