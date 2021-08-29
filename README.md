@@ -1,7 +1,7 @@
 # Selenium-Intro-Test
 
 
-<img width="457" alt="68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" src="https://user-images.githubusercontent.com/85579055/131240457-efd3b32b-ca8d-4105-b480-110120273f38.png">
+<img align="center" width="657" alt="68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" src="https://user-images.githubusercontent.com/85579055/131240457-efd3b32b-ca8d-4105-b480-110120273f38.png">
 
 <h3 align="center"> Selenium web driver - Chrome Driver</h3>
 
