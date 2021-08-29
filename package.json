@@ -1,0 +1,28 @@
+{
+  "name": "selenium-intro-test",
+  "version": "1.0.0",
+  "description": "simple test of Selenium web driver",
+  "main": "index.js",
+  "scripts": {
+    "start": " node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcfulmer13/Selenium-Intro-Test.git"
+  },
+  "keywords": [
+    "selenium",
+    "test"
+  ],
+  "author": "McKinley Fulmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcfulmer13/Selenium-Intro-Test/issues"
+  },
+  "homepage": "https://github.com/mcfulmer13/Selenium-Intro-Test#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-beta.4"
+  },
+  "devDependencies": {}
+}
