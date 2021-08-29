@@ -52,7 +52,7 @@ Used for demonstration
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Apache License, Version 2.0 License. See `LICENSE` for more information.
 
 
 ## GitHub
