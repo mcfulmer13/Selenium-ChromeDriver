@@ -37,8 +37,8 @@
 
 ## Usage
 PLEASE NOTE:  the google chrome browseer is required to run this test
-* Mac users with Homebrew installed: `brew install --cask chromedriver`
-* open terminal `npm init`
+* Mac users with Homebrew installed - open the terminal: `brew install --cask chromedriver`
+* in the terminal `npm init`
 * in the terminal `npm install selenium-webdriver`
 * in the terminal `npm start`
 
