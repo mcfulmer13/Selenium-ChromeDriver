@@ -57,7 +57,7 @@ Distributed under the Apache License, Version 2.0 License. See `LICENSE` for mor
 
 ## GitHub
 
-Project Link: [Git Hire](https://github.com/mcfulmer13/Selenium-Intro-Test)
+Project Link: [Selenium Test](https://github.com/mcfulmer13/Selenium-Intro-Test)
 
 
 McKinley's Github - [click here to view](https://github.com/mcfulmer13)
