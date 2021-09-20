@@ -47,7 +47,7 @@ _For more examples, please refer to the Selenium [Documentation](https://www.npm
 
 ## License
 
-Used for demonstration
+Used for demonstration:
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
